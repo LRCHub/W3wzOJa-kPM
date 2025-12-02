@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Open the Door",
+  "base_artist": "LongestSoloEver",
+  "createdAt": "2025-12-02T16:50:33.298562Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "OPEN THE DOOR",
+      "artist": "Die Antwoord feat. Panther Modern",
+      "has_synced": true,
+      "path": "select/01_OPEN_THE_DOOR_Die_Antwoord_feat._Panther_Modern.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Open The Door",
+      "artist": "Die Antwoord",
+      "has_synced": true,
+      "path": "select/02_Open_The_Door_Die_Antwoord.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Open the Door",
+      "artist": "Otis Redding",
+      "has_synced": true,
+      "path": "select/03_Open_the_Door_Otis_Redding.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Open the Door to Your Heart",
+      "artist": "Nick Kamen",
+      "has_synced": false,
+      "path": "select/04_Open_the_Door_to_Your_Heart_Nick_Kamen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Open the Door",
+      "artist": "British Sea Power",
+      "has_synced": true,
+      "path": "select/05_Open_the_Door_British_Sea_Power.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Let My Love Open the Door",
+      "artist": "Natalie Imbruglia",
+      "has_synced": true,
+      "path": "select/06_Let_My_Love_Open_the_Door_Natalie_Imbruglia.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Open The Door",
+      "artist": "Sugababes",
+      "has_synced": true,
+      "path": "select/07_Open_The_Door_Sugababes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Open the Door, Homer",
+      "artist": "Bob Dylan",
+      "has_synced": true,
+      "path": "select/08_Open_the_Door,_Homer_Bob_Dylan.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "OPEN THE DOOR",
+      "artist": "Die Antwoord/Panther Modern",
+      "has_synced": true,
+      "path": "select/09_OPEN_THE_DOOR_Die_Antwoord_Panther_Modern.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Let My Love Open the Door",
+      "artist": "Pete Townshend",
+      "has_synced": true,
+      "path": "select/10_Let_My_Love_Open_the_Door_Pete_Townshend.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Better Open the Door",
+      "artist": "Motion City Soundtrack",
+      "has_synced": true,
+      "path": "select/11_Better_Open_the_Door_Motion_City_Soundtrack.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Open The Door To Your Heart",
+      "artist": "Darrell Banks",
+      "has_synced": true,
+      "path": "select/12_Open_The_Door_To_Your_Heart_Darrell_Banks.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Let My Love Open the Door",
+      "artist": "Pete Townsend",
+      "has_synced": true,
+      "path": "select/13_Let_My_Love_Open_the_Door_Pete_Townsend.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Open the Door",
+      "artist": "Roger Hodgson",
+      "has_synced": true,
+      "path": "select/14_Open_the_Door_Roger_Hodgson.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Open the Door",
+      "artist": "Gentlemen Afterdark",
+      "has_synced": true,
+      "path": "select/15_Open_the_Door_Gentlemen_Afterdark.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Open The Door (That's Not My Neighbor Song)",
+      "artist": "LongestSoloEver, DayumDahlia",
+      "has_synced": false,
+      "path": "select/pl_01_Open_The_Door_(That's_Not_My_Neighbor_Song)_LongestSoloEver,_DayumDahlia.txt"
+    }
+  ]
+}
