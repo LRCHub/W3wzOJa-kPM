@@ -1,0 +1,176 @@
+# LongestSoloEver – Open the Door
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+Good afternoon,
+hello, hi
+Isn't it nice to be human?
+(Entirely human)
+It would be so kind
+if you could open the door
+and let me inside
+You're askin'
+a whole lot of questions
+Is it the way
+that I'm dressed or
+Is it the number of eyes?
+I knew it was something,
+I'll come back
+with a new disguise
+Take another face
+and make it mine
+Making a replacement
+of your kind
+I'm another feature creature
+next in line
+(Don't look behind you)
+Oh, you saw right through me,
+didn't you?
+Your senses are screaming,
+"This isn't a human!"
+Well, I'm getting better
+and sooner or later,
+you'll open the door
+See my name on the list?
+(Right)
+Everything checks out?
+(Let me inside)
+Gonna make a little call?
+(Why?)
+There's nobody—
+(Hello?)
+Fuck
+I really need
+to get into the building
+Don't wanna wait anymore
+Everyone out here is dying
+to get in, so
+If you could open the door
+I really need
+to get into the building
+Don't wanna wait anymore
+Everyone out here is dying
+to get in, so
+If you could open the door
+Hey there, hi
+Have you ever thought
+of quitting?
+Sorry about that,
+let's just start
+from the beginning
+Here's my card and my form
+Why was I outside the building?
+Oh yeah,
+I was at my job making a killing
+It's kinda silly
+to focus all on my voice
+and shape
+Call me the tenant from heaven,
+'cause I'm a patron saint
+I've been so nice and so kind
+to my neighbors
+Now if you could do me
+this one damn favor My,
+you've got
+a lot of questions
+but I guess I won't mind
+I'm kind of in a rush
+and it's a waste of time
+To ask me things over
+and over to see if I slip up
+Just open the door first
+I just think that
+we should reach out
+with a helping hand
+Doppelgangers all around,
+why all the reprimand?
+Nowadays,
+everybody running while
+they still can
+Meanwhile,
+I'm working harder
+than the milkman
+See my name on the list?
+(Right)
+Everything checks out?
+(Let me inside)
+Gonna make a little call?
+(Why?)
+There's nobody—
+(Hello?)
+Fuck
+I really need to get
+into the building
+Don't wanna wait anymore
+Everyone out here is dying
+to get in, so
+If you could open the door
+I really need to get
+into the building
+Don't wanna wait anymore
+Everyone out here is dying
+to get in, so
+If you could open the door
+There's danger at your doorstep
+And only you can prevent
+what's in store!
+Now, to identify an impostor
+All you have to do—
+(Hoon!)
+Fuck that
+I'ma switch up the visage,
+a mission to trip up the vision
+Cognition is slipping
+every time
+I get a little closer to winning
+You're starting to doubt
+the shape of my mouth
+I'll figure you out,
+I'll get another face
+and come back around
+I'm endless,
+another couple tries,
+you'll be defenseless
+Falling for my lies,
+can't comprehend this
+So call for backup,
+I'll come back
+You let me in,
+watch the bodies stack up
+See my name on the list?
+(Right)
+Everything checks out?
+(Let me inside)
+Wait, we're good?
+Really?
+Hahahahaha, finally!
+Fuck!
+I really need to get
+into the building
+Don't wanna wait anymore
+Everyone out here is dying
+to get in, so
+If you could open the door
+I really need to get
+into the building
+Don't wanna wait anymore
+Everyone out here is dying
+to get in, so
+If you could open the door
+I really need to get
+into the building
+Don't wanna wait anymore
+(Don't wanna wait anymore)
+Everyone out here is dying
+to get in, so
+If you could open the door
+(If you could open the door)
+I really need to get
+into the building
+Don't wanna wait anymore
+(Don't wanna wait anymore)
+Everyone out here is dying
+to get in, so
+If you could open the door
+```
